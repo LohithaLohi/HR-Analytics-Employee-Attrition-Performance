@@ -1,6 +1,6 @@
 # IBM HR Analytics Employee Attrition & Performance
 
-<p align="center"><img width="100%" src="employee_attirtion.png"></p>
+<p align="center"><img width="100%" src="Employee_Attirtion.png"></p>
 
 ## Problem Statement:
 
